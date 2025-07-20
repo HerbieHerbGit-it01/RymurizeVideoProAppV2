@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BE7E8F2F-4670-4A21-A92D-6C9B7CEB9CF7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "338CC3DC-63F4-4775-B68E-71801D2D1CD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RymurizeVideoProAppV2/VideoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "338CC3DC-63F4-4775-B68E-71801D2D1CD8 - 69ff1893ff76b739"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for brueQuestions"
+                  moduleName = "RymurizeVideoProAppV2.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/herbertwilliams/Documents/RymurizeVideoProAppV2/RymurizeVideoProAppV2/RymurizeVideoProAppV2/VideoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+               <Location
+                  uuid = "338CC3DC-63F4-4775-B68E-71801D2D1CD8 - 4182b429ae6b6ab5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RymurizeVideoProAppV2.brueQuestions.unsafeMutableAddressor : Swift.Array&lt;RymurizeVideoProAppV2.QuizQuestion&gt;"
+                  moduleName = "RymurizeVideoProAppV2.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/herbertwilliams/Documents/RymurizeVideoProAppV2/RymurizeVideoProAppV2/RymurizeVideoProAppV2/VideoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

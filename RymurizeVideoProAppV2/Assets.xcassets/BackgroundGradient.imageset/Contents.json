@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "A_digital_graphic_background_image_exhibits_a_grad 2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "A_digital_graphic_background_image_exhibits_a_grad 3.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "A_digital_graphic_background_image_exhibits_a_grad 4.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
