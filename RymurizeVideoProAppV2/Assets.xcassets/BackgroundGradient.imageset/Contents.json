@@ -1,23 +1,23 @@
 {
-  "images" : [
+  "images": [
     {
-      "filename" : "A_digital_graphic_background_image_exhibits_a_grad 2.png",
-      "idiom" : "universal",
-      "scale" : "1x"
+      "idiom": "universal",
+      "filename": "BackgroundGradient_1x.png",
+      "scale": "1x"
     },
     {
-      "filename" : "A_digital_graphic_background_image_exhibits_a_grad 3.png",
-      "idiom" : "universal",
-      "scale" : "2x"
+      "idiom": "universal",
+      "filename": "BackgroundGradient_2x.png",
+      "scale": "2x"
     },
     {
-      "filename" : "A_digital_graphic_background_image_exhibits_a_grad 4.png",
-      "idiom" : "universal",
-      "scale" : "3x"
+      "idiom": "universal",
+      "filename": "BackgroundGradient_3x.png",
+      "scale": "3x"
     }
   ],
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
+  "info": {
+    "version": 1,
+    "author": "xcode"
   }
 }
